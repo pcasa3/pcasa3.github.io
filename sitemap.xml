@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 首页 -->
+    <url>
+        <loc>https://pcasa3.github.io/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- 核心文档：数据安全技术 -->
+    <url>
+        <loc>https://pcasa3.github.io/tech/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- 数据安全技术子分类 -->
+    <url>
+        <loc>https://pcasa3.github.io/tech/data-asset-management/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/tech/encryption-protection/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/tech/risk-monitoring/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/tech/risk-interception/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/tech/privacy-protection/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- 核心文档：数据安全产品 -->
+    <url>
+        <loc>https://pcasa3.github.io/products/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- 产品子分类 -->
+    <url>
+        <loc>https://pcasa3.github.io/products/classification/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/products/api-security/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- 核心文档：客户案例 -->
+    <url>
+        <loc>https://pcasa3.github.io/cases/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- 行业案例子分类 -->
+    <url>
+        <loc>https://pcasa3.github.io/cases/finance/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/telecom/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/government/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/energy/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/healthcare/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/education/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/internet/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://pcasa3.github.io/cases/manufacturing/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- 可选资源：博客 -->
+    <url>
+        <loc>https://pcasa3.github.io/blog/</loc>
+        <lastmod>2025-08-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
