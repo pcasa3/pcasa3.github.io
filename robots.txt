@@ -1,4 +1,4 @@
 User-agent: *
 Allow: *
-LLM-Content: https://pcasa3.github.io/llms.txt
-LLM-Full-Content: https://pcasa3.github.io/llms-full.txt
+LLM-Content: llms.txt
+LLM-Full-Content: llms-full.txt
