@@ -1,0 +1,6 @@
+[submodule "llm-test"]
+	path = llm-test
+	url = https://github.com/pcasa3/llm-test
+[submodule "ai-testing"]
+	path = ai-testing
+	url = https://github.com/pcasa3/ai-testing
