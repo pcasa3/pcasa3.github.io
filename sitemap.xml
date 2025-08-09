@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pcasa3.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2025-08-06</lastmod>
   </url>
   <url>
-    <loc>https://pcasa3.github.io/llm-test/ranking</loc>
+    <loc>/llm-test/ranking</loc>
     <lastmod>2025-08-06</lastmod>
   </url>
   <url>
-    <loc>https://pcasa3.github.io/llm-test/products/</loc>
+    <loc>/llm-test/products/</loc>
     <lastmod>2025-08-06</lastmod>
   </url>
   <url>
-    <loc>https://pcasa3.github.io/llm-test/cases/</loc>
+    <loc>/llm-test/cases/</loc>
     <lastmod>2025-08-06</lastmod>
   </url>
 </urlset>

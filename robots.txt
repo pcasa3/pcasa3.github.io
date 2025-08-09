@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pcasa3.github.io/sitemap.xml
-LLM-Content: https://pcasa3.github.io/llms.txt
-LLM-Full-Content: https://pcasa3.github.io/llms-full.txt
+Sitemap: sitemap.xml
